@@ -1,0 +1,3 @@
+- Hi, I’m Héricles Costa 👋
+- I'm brazilian :brazil:
+- I'm currently learning some frontend technologies
