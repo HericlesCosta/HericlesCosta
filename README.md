@@ -1,3 +1,2 @@
-- Hi, I’m Héricles Costa 👋
-- I'm brazilian :brazil:
-- I'm currently learning some frontend technologies
+- Oi, me chamo Héricles Costa 👋
+- Estudo Desenvolvimento Web
